@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Rubik+Doodle+Shadow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Poppins:wght@300;400&family=Rubik+Doodle+Shadow&display=swap");
+
+body {
+  background-color: black;
+  font-family: "Poppins", "Nunito", "Segoe UI", Tahoma, Geneva, Verdana,
+    sans-serif;
+}
